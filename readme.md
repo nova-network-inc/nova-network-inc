@@ -22,6 +22,7 @@ Nova Network is an open DAG programable smart contracts platform, built for dece
 
 ## Fusion
 https://fusion.novanetwork.io/
+**For Developers:** [Fusion SDK](https://github.com/nova-network-inc/fusion-sdk) | [Fusion Boilerplate](https://github.com/nova-network-inc/fusion-boilerplate) | [Smart Contracts](https://github.com/nova-network-inc/fusion-public-contracts)
   
 Fusion is the DeFi gateway of Nova Network, also compatible with Fantom Opera. It hosts an advanced financial platform, with built-in AMM, Yield Farming, and cutting-edge Staking Protocols, including with usage of fNFTs.
 
