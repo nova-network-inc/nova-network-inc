@@ -38,7 +38,7 @@ Opera House is our very own NFT Marketplace on Fantom Opera. User-friendly UI an
 SMUI is a powerful development tool that allows developers to connect and interact directly with any smart contract deployed on **Nova Network** or **Nebula Testnet**. It bypasses the need for any additional UI, and users can call the contract functions using a simple ABI `json` file.
 
 ## Nebula Testnet Faucet
-**Website:** https://faucet.novanetwork.io/
+**Website:** https://faucet.novanetwork.io/  
 **For Developers:** [Public Repository](https://github.com/nova-network-inc/faucet)  
 
 Nebula Testnet Faucet is used by developers to acquire testnet NBX tokens so they can pay for network usage fees and test functions in their development environment. If you need NBX in quantities higher than allowed by the faucet, please get in touch with our support team for assistance.
