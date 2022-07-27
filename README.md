@@ -5,17 +5,18 @@
 # Nova Network Inc.
 Nova Network is an open DAG programable smart contracts platform, built for decentralized applications. You can use it to build fast, scalable, and low cost Solidity compatible dApps, for both enterprise and retail uses.
 
-https://www.novanetwork.io/
-#### Website
+**Links:** [Website](https://www.novanetwork.io/) | [Twitter](https://twitter.com/novafinofficial) | [Discord](https://discord.gg/novanetwork) | [Telegram](https://t.me/novachannelofficial) | [Documents](https://docs.novanetwork.io/)
 
-https://twitter.com/novafinofficial
-#### Twitter
+# Connect to Nova Network
 
-https://discord.gg/novanetwork
-#### Discord
+**Network Name:** Nova Network
+**RPC URL:** `https://connect.novanetwork.io/`
+**Chain ID:** 87
+**Coin:** Supernova
+**Symbol:** SNT
+**Block Explorer:** `https://explorer.novanetwork.io/`
 
-https://t.me/novachannelofficial
-#### Telegram
+**Download:** [MetaMask](https://metamask.io/download/) | [Coinbase Wallet](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250)
 
 # Our Platforms
 
