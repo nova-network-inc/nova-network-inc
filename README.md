@@ -9,12 +9,12 @@ Nova Network is an open DAG programable smart contracts platform, built for dece
 
 # Connect to Nova Network
 
-**Network Name:** Nova Network
-**RPC URL:** `https://connect.novanetwork.io/`
-**Chain ID:** 87
-**Coin:** Supernova
-**Symbol:** SNT
-**Block Explorer:** `https://explorer.novanetwork.io/`
+**Network Name:** Nova Network  
+**RPC URL:** `https://connect.novanetwork.io/`  
+**Chain ID:** 87  
+**Coin:** Supernova  
+**Symbol:** SNT  
+**Block Explorer:** `https://explorer.novanetwork.io/`  
 
 **Download:** [MetaMask](https://metamask.io/download/) | [Coinbase Wallet](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250)
 
