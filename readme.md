@@ -18,7 +18,7 @@ Nova Network is an open DAG programable smart contracts platform, built for dece
 
 **Download:** [MetaMask](https://metamask.io/download/) | [Coinbase Wallet](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250)
 
-# Our Platforms
+# Our Hosted Platforms
 
 ## Fusion
 **Website:** https://fusion.novanetwork.io/  
