@@ -21,12 +21,29 @@ Nova Network is an open DAG programable smart contracts platform, built for dece
 # Our Platforms
 
 ## Fusion
-https://fusion.novanetwork.io/  
+**Website:** https://fusion.novanetwork.io/  
 **For Developers:** [Fusion SDK](https://github.com/nova-network-inc/fusion-sdk) | [Fusion Boilerplate](https://github.com/nova-network-inc/fusion-boilerplate) | [Smart Contracts](https://github.com/nova-network-inc/fusion-public-contracts)
   
 Fusion is the DeFi gateway of Nova Network, also compatible with Fantom Opera. It hosts an advanced financial platform, with built-in AMM, Yield Farming, and cutting-edge Staking Protocols, including with usage of fNFTs.
 
 ## Opera House
-https://operahouse.online/  
+**Website:** https://operahouse.online/  
 
 Opera House is our very own NFT Marketplace on Fantom Opera. User-friendly UI and advanced social interaction mechanisms to bolster the community spirit amongst its users.
+
+## SMUI
+**Website:** https://smui.novanetwork.io/  
+**For Developers:** [Public Repository](https://github.com/nova-network-inc/smui)  
+
+SMUI is a powerful development tool that allows developers to connect and interact directly with any smart contract deployed on **Nova Network** or **Nebula Testnet**. It bypasses the need for any additional UI, and users can call the contract functions using a simple ABI `json` file.
+
+## Nebula Testnet Faucet
+**Website:** https://faucet.novanetwork.io/
+**For Developers:** [Public Repository](https://github.com/nova-network-inc/faucet)  
+
+Nebula Testnet Faucet is used by developers to acquire testnet NBX tokens so they can pay for network usage fees and test functions in their development environment. If you need NBX in quantities higher than allowed by the faucet, please get in touch with our support team for assistance.
+
+## SSL Proxy
+**For Developers:** [Public Repository](https://github.com/nova-network-inc/ssl-proxy)  
+
+This is a very simple SSL Proxy developed by our team that uses NodeJS to redirect between different ports of a host, using SSL to enable communication via `https` even for protocols without native support for it.
