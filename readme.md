@@ -27,10 +27,10 @@ Platforms we have either developed or forked, and are being hosted independently
   
 Fusion is the DeFi gateway of Nova Network, also compatible with Fantom Opera. It hosts an advanced financial platform, with built-in AMM, Yield Farming, and cutting-edge Staking Protocols, including with usage of fNFTs.
 
-## Opera House
-**Website:** https://operahouse.online/  
+## Tradim
+**Website:** https://tradim.io/  
 
-Opera House is our very own NFT Marketplace on Fantom Opera. User-friendly UI and advanced social interaction mechanisms to bolster the community spirit amongst its users.
+Tradim.io is our proprietary NFT marketplace on Nova Network. Powerful, yet simple, it brings to the table a tailored UI that allows even those unfamiliar with the space to use the platform with ease.
 
 ## SMUI
 **Website:** https://smui.novanetwork.io/  
@@ -47,4 +47,4 @@ Nebula Testnet Faucet is used by developers to acquire testnet NBX tokens so the
 ## SSL Proxy
 **For Developers:** [Public Repository](https://github.com/nova-network-inc/ssl-proxy)  
 
-This is a very simple SSL Proxy developed by our team that uses NodeJS to redirect between different ports of a host, using SSL to enable communication via `https` even for protocols without native support for it.
+This is a very simple SSL Proxy developed by our team for easy deployment of public and private Nova Network RPCs. It uses NodeJS to redirect between different ports of a host, using SSL to enable communication via `https` even for protocols without native support for it.
