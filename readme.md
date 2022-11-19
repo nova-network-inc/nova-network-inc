@@ -5,7 +5,7 @@
 # Nova Network Inc.
 Nova Network is an open DAG programable smart contracts platform, built for decentralized applications. You can use it to build fast, scalable, and low cost Solidity compatible dApps, for both enterprise and retail uses.
 
-**Links:** [Website](https://www.novanetwork.io/) | [Twitter](https://twitter.com/novafinofficial) | [Discord](https://discord.gg/novanetwork) | [Telegram](https://t.me/novachannelofficial) | [Documents](https://docs.novanetwork.io/)
+**Links:** [Website](https://www.novanetwork.io/) | [Twitter](https://twitter.com/NovaNetworkSNT) | [Discord](https://discord.gg/mHtRYmd) | [Telegram](https://t.me/NovaChannelOfficial) | [Medium](https://medium.com/@NovaNetwork) | [Documents](https://docs.novanetwork.io/)
 
 # Connect to Nova Network
 
